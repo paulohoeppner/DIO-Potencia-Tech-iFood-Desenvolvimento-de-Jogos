@@ -1,24 +1,28 @@
 <div align="center">
     <h1>Potência Tech iFood - Desenvolvimento de Jogos</h1>
 </div>
+<br><br>
 
 <div align="center">
-    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
-    <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
-    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25" style="margin: 25px">
+    <img src="assets\images\dio-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\images\PotenciaTech-logo.png" width="200" height="100" hspace="25">
+    <img src="assets\images\ifood-logo.png" width="200" height="100" hspace="25">
 </div>
+<br><br>
 
-<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="" style="margin: 25px">
+<div align="center"><img src="assets\images\bootcamp-logo.png" width="" height="300" hspace="">
 </div>
+<br><br>
 
-<div align="center"> <img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10" style="margin: 50px"/>
+<div align="center"><img src="assets\images\bootcamp-dio.png" width="300" height="" hspace="10">
 </div>     
+<br><br>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 10px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 10px"/>     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" hspace="10">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" hspace="10">     
 </div>
 <br><br>
 
